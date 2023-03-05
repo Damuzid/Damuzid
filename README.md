@@ -1,6 +1,6 @@
 ## Hi, I'm Jack
 
-*Information Analyst at [Enexis](https://www.enexisgroep.com/about/company-profile/)*:zap:
+*Information Analyst at [Enexis](https://www.enexisgroep.com/about/company-profile/).*
 
 ## Let's connect
 
