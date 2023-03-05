@@ -4,6 +4,8 @@
 
 ## Let's connect
 
+[<img alt="Linkedin profile" src="https://img.shields.io/static/v1?label=&message=jdcort&color=0A66C2&style=flat-square&logo=linkedin"/>](https://nl.linkedin.com/in/jdcort)
+
 <!--
 **Damuzid/Damuzid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
