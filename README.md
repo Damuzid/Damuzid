@@ -4,7 +4,8 @@
 
 ## Let's connect
 
-[<img alt="Linkedin profile" src="https://img.shields.io/static/v1?label=&message=jdcort&color=0A66C2&style=flat-square&logo=linkedin"/>](https://nl.linkedin.com/in/jdcort)
+[<img alt="Linkedin profile" src="https://img.shields.io/static/v1?label=&message=jdcort&color=0A66C2&style=flat-square&logo=linkedin"/>](https://nl.linkedin.com/in/jdcort) [<img alt="Xbox profile" src="https://img.shields.io/static/v1?label=&message=Damuzid&color=107C10&style=flat-square&logo=xbox"/>](https://www.trueachievements.com/gamer/Damuzid) [<img alt="Gmail adress" src="https://img.shields.io/static/v1?label=&message=Send an email&color=EA4335&logoColor=ffffff&style=flat-square&logo=gmail"/>](mailto:jjlfcort89@gmail.com?subject=[GitHub])
+
 
 <!--
 **Damuzid/Damuzid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
