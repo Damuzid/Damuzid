@@ -16,9 +16,7 @@ These are the different languages and tools I'm currently using and learning:mag
 
  - *Frontend*
 
-<img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=HTML5&color=E34F26&style=for-the-badge&logo=html5&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=CSS3&color=1572B6&style=for-the-badge&logo=css3&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=React.js&color=65adba&style=for-the-badge&logo=react&logoColor=ffffff">
-
-<img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=Bootstrap&color=7952B3&style=for-the-badge&logo=bootstrap&logoColor=ffffff">
+<img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=HTML5&color=E34F26&style=for-the-badge&logo=html5&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=CSS3&color=1572B6&style=for-the-badge&logo=css3&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=React.js&color=65adba&style=for-the-badge&logo=react&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=Bootstrap&color=7952B3&style=for-the-badge&logo=bootstrap&logoColor=ffffff">
 
 - *Backend*
 
@@ -26,9 +24,7 @@ These are the different languages and tools I'm currently using and learning:mag
 
 - *Tools*
 
-<img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=VS Code&color=007ACC&style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=Git&color=F05032&style=for-the-badge&logo=git&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=Adobe Illustrator&color=FF9A00&style=for-the-badge&logo=adobeillustrator&logoColor=ffffff">
-
-<img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=Adobe Photoshop&color=31A8FF&style=for-the-badge&logo=adobephotoshop&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=Adobe InDesign&color=FF3366&style=for-the-badge&logo=adobeindesign&logoColor=ffffff">
+<img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=VS Code&color=007ACC&style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=Git&color=F05032&style=for-the-badge&logo=git&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=Adobe Illustrator&color=FF9A00&style=for-the-badge&logo=adobeillustrator&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=Adobe Photoshop&color=31A8FF&style=for-the-badge&logo=adobephotoshop&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&labelColor=555555&message=Adobe InDesign&color=FF3366&style=for-the-badge&logo=adobeindesign&logoColor=ffffff">
 
 
 ## Let's connect
