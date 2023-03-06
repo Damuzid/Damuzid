@@ -1,6 +1,6 @@
 <img src="./images/banner.png" alt="readme banner">
 
-I'm an **Information Analyst** at [Enexis](https://www.enexisgroep.com/about/company-profile/), one of the largest (energy) Grid operator's in the Netherlands servicing around 3 million households and businesses. When I'm not analysing processes and information I also like to build stuff:wrench:. *Coding, web development and design* have always been a hobby I'm passionate about and now I'm practicing to become a Full stack developer in my free time.
+I'm an **Information Analyst** at [Enexis](https://www.enexisgroep.com/about/company-profile/), one of the largest (energy) Grid operator's in the Netherlands servicing around 3 million households and businesses. When I'm not analysing processes and information I also like to build stuff:wrench:. *Coding, web development and design* have always been a hobby I'm passionate about and now I'm practicing to become a Full stack (web) developer in my free time.
 
 If you're still reading, I would like to introduce you to [The Player of Games](https://www.goodreads.com/book/show/18630.The_Player_of_Games) by Ian M. banks, a novel in his [Culture series](https://www.goodreads.com/series/49118-culture). One of the best Sci-Fi:rocket: series I've ever read. On that note, if you're really into Sci-Fi and anime you should definitely watch [Mobile Suit Gundam Thunderbolt](https://www.imdb.com/title/tt13963530/).
 
@@ -31,26 +31,4 @@ These are the different languages and tools I'm currently using and learning:mag
 
 You can reach me via one of the following channels, even if you just want to play a game:video_game:.
 
-[<img alt="Linkedin profile" src="https://img.shields.io/static/v1?label=&labelColor=555555&message=jdcort&color=adbac7&logoColor=0A66C2&style=for-the-badge&logo=linkedin"/>](https://nl.linkedin.com/in/jdcort) [<img alt="Gmail adress" src="https://img.shields.io/static/v1?label=&labelColor=555555&message=jjlfcort89@gmail.com&color=adbac7&logoColor=EA4335&style=for-the-badge&logo=gmail"/>](mailto:jjlfcort89@gmail.com?subject=[GitHub]) [<img alt="Xbox profile" src="https://img.shields.io/static/v1?label=&labelColor=555555&message=Damuzid&color=adbac7&logoColor=107C10&style=for-the-badge&logo=xbox"/>](https://www.trueachievements.com/gamer/Damuzid) [<img alt="Xbox profile" src="https://img.shields.io/static/v1?label=&labelColor=555555&message=Damuzid7369&color=adbac7&logoColor=5865F2&style=for-the-badge&logo=discord"/>](https://discord.com) 
-
-
-<!--
-### Let's connect
-
- 
-
-
-<!--
-**Damuzid/Damuzid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img alt="Linkedin profile" src="https://img.shields.io/static/v1?label=&labelColor=555555&message=jdcort&color=adbac7&logoColor=0A66C2&style=for-the-badge&logo=linkedin"/>](https://nl.linkedin.com/in/jdcort) [<img alt="Gmail adress" src="https://img.shields.io/static/v1?label=&labelColor=555555&message=jjlfcort89@gmail.com&color=adbac7&logoColor=EA4335&style=for-the-badge&logo=gmail"/>](mailto:jjlfcort89@gmail.com?subject=[GitHub]) [<img alt="Xbox profile" src="https://img.shields.io/static/v1?label=&labelColor=555555&message=Damuzid&color=adbac7&logoColor=107C10&style=for-the-badge&logo=xbox"/>](https://www.trueachievements.com/gamer/Damuzid) [<img alt="Xbox profile" src="https://img.shields.io/static/v1?label=&labelColor=555555&message=Damuzid7369&color=adbac7&logoColor=5865F2&style=for-the-badge&logo=discord"/>](https://discord.com)
